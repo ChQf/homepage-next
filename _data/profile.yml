@@ -61,7 +61,7 @@ education:
     Supervisor: <i>Prof. Siqi BU</i>, IET Fellow, Associate Head
   date: 2022.01 - 2025.08
 - name: National University of Singapore
-  logo: /assets/images/badges/nus_logo.jpg
+  logo: /assets/images/badges/nus_logo.png
   position: >-
     Visiting Ph.D., Department of Department of Electrical and Computer Engineering<br/>
     Supervisor: <i>Prof. Dipti Srinivasan</i>, IEEE Fellow
@@ -83,7 +83,7 @@ experience:
     Supervisor: <i>Prof. Siqi BU</i>, IET Fellow, Associate Head
   date: 2025.09 - 2026.03
 - name: Maintenance Branch Company of State Grid Fujian Electric Power CO. LTD.
-  logo: /assets/images/badges/state grid_logo.jpg
+  logo: /assets/images/badges/state grid_logo.png
   position: Junior Engineer
   date: 2021.08 - 2021.11
 
