@@ -3,8 +3,8 @@ secondary_name: "陈启凡"
 navbar_name: "Qifan Chen"
 
 positions:
-- name: Ph.D.
-- name: Fuzhou University, Fuzhou, China
+- name: Ph.D.(PolyU), Postdoc.(PolyU), SMIEEE
+- name: Department of Electrical Engineering and Automation, Fuzhou University, Fuzhou, China
   logo: /assets/images/badges/fzu_logo1.png  # Logo is optional
 
 
@@ -55,7 +55,7 @@ portrait_caption: >-
 
 education:
 - name: The Hong Kong Polytechnic University
-  logo: /assets/images/badges/polyu_logo.png
+  logo: /assets/images/badges/polyu_logo1.png
   position: >-
     Ph.D., Department of Electrical and Electronic Engineering<br/>
     Supervisor: <i>Prof. Siqi BU</i>, IET Fellow, Associate Head
@@ -77,7 +77,7 @@ education:
 
 experience:
 - name: The Hong Kong Polytechnic University
-  logo: /assets/images/badges/polyu_logo.png
+  logo: /assets/images/badges/polyu_logo1.png
   position: >-
     Postdoctoral Fellow, Department of Electrical and Electronic Engineering<br/>
     Supervisor: <i>Prof. Siqi BU</i>, IET Fellow, Associate Head
