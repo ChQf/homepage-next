@@ -8,7 +8,7 @@ positions:
   logo: /assets/images/badges/fzu_logo1.png  # Logo is optional
 
 
-email: "qf_chen@foxmail.com"
+email: "qifan.chen@fzu.edu.cn"
 # cv_link: link-to-your-cv-file
 gscholar: gnaW8bEAAAAJ  # This is an example, replace it with your own Google Scholar ID
 # github: your_github_id
@@ -22,7 +22,7 @@ short_bio: >-
     I joined the College of Electrical Engineering and Automation, Fuzhou University, China, in 2026.
     Previously, I was a Postdoctoral Fellow at The Hong Kong Polytechnic University, collaborating with Prof.
     <a href="https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-bu-siqi/" target="_blank">Prof. Siqi BU</a>
-    from 2025 to 2026.
+    (FIET) from 2025 to 2026.
     I received my Ph.D. degree in Electrical Engineering from The Hong Kong Polytechnic University in 2025, under the supervision of 
     <a href="https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-bu-siqi/" target="_blank">Prof. Siqi BU</a>
     (FIET) at the 
@@ -31,10 +31,10 @@ short_bio: >-
     I received my M.Eng. degree in Power System & Automation and 
     B.Eng. degree in Electrical Engineering & Automation both from Fuzhou University, China, in 2021 and 2018, respectively. 
     I was a visiting Ph.D. student at National University of Singapore in 2024, under the supervision of Prof.
-    <a href="https://www.ece.nus.edu.sg/gems/profhome.html" target="_blank">Dipti Srinivasan (FIEEE)</a>.
+    <a href="https://www.ece.nus.edu.sg/gems/profhome.html" target="_blank">Dipti Srinivasan</a> (FIEEE).
   </p>
   <p>
-    Waht I do:
+    Waht I do: >-
       - Power system stability analysis and control:
         - stability risk analysis and control considering uncertainties;
         - power electronic-dominated power system stability based on impedance modeling and analysis.
@@ -92,7 +92,7 @@ awards:
   date: 2026
 - name: Two ESI Highly Cited Papers
   date: 2025
-- name: One High Impact Paper of Proceedings of the CSEE in 2021
+- name: High Impact Paper of Proceedings of the CSEE in 2021
   date: 2021
 - name: Excellent Paper Award at the 19th Annual Conference of Fujian Society for Electrical Engineering
   date: 2020
